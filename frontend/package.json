@@ -1,0 +1,20 @@
+{
+  "name": "saas-notes-frontend",
+  "version": "1.0.0",
+  "description": "Multi-tenant SaaS Notes Application Frontend",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8080",
+    "build": "echo 'No build step needed for static HTML'",
+    "vercel-build": "echo 'No build step needed'",
+    "preview": "python -m http.server 8080"
+  },
+  "keywords": [
+    "saas",
+    "multi-tenant",
+    "notes",
+    "frontend"
+  ],
+  "author": "",
+  "license": "MIT"
+}
