@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SaaS Notes - Multi-Tenant Notes Application
 
 ## 🚀 Project Overview
@@ -496,3 +497,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 *Built with ❤️ for demonstrating modern multi-tenant SaaS architecture*
+=======
+# Multi-Tenant-SaaS-Notes-Application-Development
+Developed a Multi-Tenant SaaS Notes Application enabling users to create, organize, and securely manage notes across multiple tenants. Implemented role-based access, authentication, and scalable architecture with a clean UI for seamless collaboration and efficient note management.
+>>>>>>> ef7d4b24f2dd4fdd580fe9b8204d7fb3ee828f10
